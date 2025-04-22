@@ -36,4 +36,4 @@ hospital.
 
 ## Usage/Examples
 
-![Demo GIF](source/output.gif)
+![Demo GIF](sources/output.gif)
